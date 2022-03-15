@@ -1,3 +1,7 @@
+<script>
+import Grid from "./Grid.svelte";
+
+</script>
 <main>
-    admin product page
+    <Grid />
 </main>

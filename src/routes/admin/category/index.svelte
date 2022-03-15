@@ -1,3 +1,6 @@
+<script>
+    import Grid from "./Grid.svelte";
+</script>
 <main>
-    admin category page
+    <Grid />
 </main>
