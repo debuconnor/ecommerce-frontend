@@ -1,3 +1,0 @@
-<main>
-    Frontend main
-</main>

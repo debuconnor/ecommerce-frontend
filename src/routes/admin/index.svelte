@@ -1,3 +1,0 @@
-<main>
-    Admin page
-</main>
