@@ -4,7 +4,8 @@
 		"baseUrl": ".",
 		"paths": {
 			"@modules": ["src/modules"],
-			"@lib": ["src/lib"]
+			"@lib": ["src/lib"],
+			"@adminPanel": ["src/routes/admin"]
 		}
 	},
 	"include": ["src/**/*.svelte", "src/**/*.js"]

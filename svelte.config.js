@@ -10,7 +10,8 @@ const config = {
 			resolve: {
 				alias: {
 					'@modules': path.resolve('./src/modules'),
-					'@lib': path.resolve('./src/lib')
+					'@lib': path.resolve('./src/lib'),
+					'@adminPanel': path.resolve('./src/routes/admin')
 				}
 			},
 
